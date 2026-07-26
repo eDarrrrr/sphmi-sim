@@ -1,0 +1,38 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+
+# === Virtual environment ===
+.venv/
+
+# === Secrets ===
+.env
+
+# === Script tak terpakai (di luar chain main.py) ===
+server_api.py
+databasemaker.py
+tempCodeRunnerFile.py
+
+# === Database dummy (cuma dipakai server_api/databasemaker) ===
+gitet_dummy.db
+
+# === UI tak terpakai (SLD dibangun via kode, bukan loadUi) ===
+ui/sld.ui
+
+# === Dokumen laporan & referensi ===
+*.docx
+*.pdf
+complete_report.md
+draft2_laporan KP.md
+final_laporan_full.md
+final_laporan_kp.md
+
+# === Presentasi ===
+kp-pln-presentation.html
+slides/
+
+# === Tools & misc ===
+cloudflared-windows-amd64.msi
+render.ps1
+opencode.json
+SKILLS/

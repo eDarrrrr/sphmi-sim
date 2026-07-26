@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>assets/backgroundsutetitem.png</file>
+  </qresource>
+</RCC>
